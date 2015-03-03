@@ -1,0 +1,79 @@
+h1 {
+  font-family: Futura, 'Trebuchet MS', Arial, sans-serif;
+  font-size: 24px;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: 500;
+  line-height: 26px;
+}
+
+/*Thanks again to cssfontstack.com for guidance. Hope you have a Mac to view this one...*/
+#red {
+  height: 100px;
+  width: 100px;
+  background-color: crimson;
+  padding: 10px;
+  margin: 10px;
+  float: left;
+  font-size: 0;
+}
+
+#orange {
+  height: 100px;
+  width: 100px;
+  background-color: darkorange;
+  padding: 10px;
+  margin: 10px;
+  float: left;
+  font-size: 0;
+}
+
+#yellow {
+  height: 100px;
+  width: 100px;
+  background-color: gold;
+  padding: 10px;
+  margin: 10px;
+  float: left;
+  font-size: 0;
+}
+
+#green {
+  height: 100px;
+  width: 100px;
+  background-color: seagreen;
+  padding: 10px;
+  margin: 10px;
+  float: left;
+  font-size: 0;
+}
+
+#blue {
+  height: 100px;
+  width: 100px;
+  background-color: mediumblue;
+  padding: 10px;
+  margin: 10px;
+  float: left;
+  font-size: 0;
+}
+
+#indigo {
+  height: 100px;
+  width: 100px;
+  background-color: indigo;
+  padding: 10px;
+  margin: 10px;
+  float: left;
+  font-size: 0;
+}
+
+#purple {
+  height: 100px;
+  width: 100px;
+  background-color: blueviolet;
+  padding: 10px;
+  margin: 10px;
+  float: left;
+  font-size: 0;
+}
